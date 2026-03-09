@@ -4,4 +4,4 @@
 # Ignore Gradle build output directory
 build
 
-src\main\java\fold\Constants.java
+app/src/main/java/fold/Constants.java
